@@ -1,5 +1,5 @@
 可通过`https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/hwxlikemi.js`倒入
-下载链接：[hwxlikemi.js.txt](https://github.com/user-attachments/files/16509396/hwxlikemi.js.txt)（导入之前先把.txt去掉）
+
 
 欢迎使用！
 
