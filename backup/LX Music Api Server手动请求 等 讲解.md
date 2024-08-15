@@ -8,9 +8,12 @@
 | Tencent   | GET        | /url/tx/m/q       |
 | Kugou   | GET        | /url/kg/h/q       |
 | Netease   | GET        | /url/wy/m/q      |
-| Migu   | GET        | /url/mg/m/q       |  
+| Migu   | GET        | /url/mg/c/q       |  
 
 参数详解：   
+
+c（Migu的专有c）
+：歌曲详情页链接的copyright id（或普通id）
 
 m
 : 各大平台歌曲详情页最后面的一串字符（tx是字母+数字混合，其它都是纯数字）
@@ -67,4 +70,9 @@ h
 
 m
 : 经典歌曲ID
+
+
+### 不要再问我歌曲详情页在哪了
+：
+![IMG_20240815_195330](https://github.com/user-attachments/assets/07f71c76-477c-4b68-a270-1fdf8e6c2288)
 
