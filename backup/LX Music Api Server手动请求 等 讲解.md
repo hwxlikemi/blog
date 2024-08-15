@@ -8,7 +8,7 @@
 | Tencent   | GET        | /url/tx/m/q       |
 | Kugou   | GET        | /url/kg/h/q       |
 | Netease   | GET        | /url/wy/m/q      |
-| Migu   | GET        | /url/mg/c/q       |  
+| Migu   | GET        | /url/mg/m/q       |  
 
 参数详解：   
 
