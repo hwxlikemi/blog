@@ -74,7 +74,7 @@ m
 
 ### 不要再问我歌曲详情页在哪了
 ：
-![IMG_20240815_195330](https://github.com/user-attachments/assets/07f71c76-477c-4b68-a270-1fdf8e6c2288)
+![retouch_2024081613294524](https://github.com/user-attachments/assets/15aacc3a-5053-499d-9d12-b0d26b3cab9d)
 
 
 ###### 最后编辑于8月15日
