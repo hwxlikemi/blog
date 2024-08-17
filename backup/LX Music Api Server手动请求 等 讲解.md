@@ -74,7 +74,7 @@ m
 
 ### 不要再问我歌曲详情页在哪了
 ：
-![retouch_2024081613294524](https://github.com/user-attachments/assets/15aacc3a-5053-499d-9d12-b0d26b3cab9d)
+![图片加载失败，请开启代理！](https://github.com/user-attachments/assets/15aacc3a-5053-499d-9d12-b0d26b3cab9d)
 
 
 ###### 最后编辑于8月15日
