@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hwxlikemi's Blog</title><link>https://hwxlikemi.github.io/blog</link><description>长大后，我们更喜欢童话，因为只有在童话里，善恶到头终有报，努力的人都会得到幸福。</description><copyright>hwxlikemi's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/159146868?v=4</url><title>avatar</title><link>https://hwxlikemi.github.io/blog</link></image><lastBuildDate>Sun, 18 Aug 2024 22:11:11 +0000</lastBuildDate><managingEditor>hwxlikemi's Blog</managingEditor><ttl>60</ttl><webMaster>hwxlikemi's Blog</webMaster><item><title>LX Music Api Server手动请求 等 讲解</title><link>https://hwxlikemi.github.io/blog/post/LX%20Music%20Api%20Server-shou-dong-qing-qiu-%20-deng-%20-jiang-jie.html</link><description># 接口列表&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>hwxlikemi's Blog</title><link>https://hwxlikemi.github.io/blog</link><description>长大后，我们更喜欢童话，因为只有在童话里，善恶到头终有报，努力的人都会得到幸福。</description><copyright>hwxlikemi's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/159146868?v=4</url><title>avatar</title><link>https://hwxlikemi.github.io/blog</link></image><lastBuildDate>Mon, 19 Aug 2024 03:37:44 +0000</lastBuildDate><managingEditor>hwxlikemi's Blog</managingEditor><ttl>60</ttl><webMaster>hwxlikemi's Blog</webMaster><item><title>LX Music Api Server手动请求 等 讲解</title><link>https://hwxlikemi.github.io/blog/post/LX%20Music%20Api%20Server-shou-dong-qing-qiu-%20-deng-%20-jiang-jie.html</link><description># 接口列表&#13;
 &#13;
 ## 1.获取播放链接（获取会员歌曲请自行充值会员后在配置文件内填写cookie）  &#13;
 &#13;
@@ -18,6 +18,8 @@ c（Migu的专有c）&#13;
 &#13;
 m&#13;
 : 各大平台歌曲详情页最后面的一串字符（tx是字母+数字混合，其它都是纯数字）&#13;
+&#13;
+ps：**如果你还不知道歌曲详情页在哪的话，请看页面底部图片**&#13;
 &#13;
 h&#13;
 : 酷狗音乐歌曲的哈希（hash）值，最好通过搜索接口获得&#13;
@@ -73,9 +75,8 @@ m&#13;
 : 经典歌曲ID&#13;
 &#13;
 ------------------------------------------------------&#13;
-![TIPS]&#13;
 &#13;
-不要再问我歌曲详情页在哪了&#13;
+歌曲详情页&#13;
 ：&#13;
 ![图片加载失败，请开启代理！](https://github.com/user-attachments/assets/15aacc3a-5053-499d-9d12-b0d26b3cab9d)&#13;
 &#13;
