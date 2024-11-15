@@ -9,7 +9,7 @@
   ####  2．这么多音源，真的全都能用？
 
   #### 3．它们是盗版吗？
-  抱着试一试的心态，我把网盘中的音源下载了下来，发现了一些公众号也在写洛雪的音源，为了回答我的第三个问题，我用VS code 打开了其中一个名为**小熊猫音源**的音源，它是一个叫做**大学资源社**的公众号写的，经过我的观察Ｔａ盗版了[@lyswhut](https://github.com/lyswhut) 的 [这个音源](https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/lx-music-source.js)(**可呢更需要魔法或者加速器才能看到**)
+  抱着试一试的心态，我把网盘中的音源下载了下来，发现了一些公众号也在写洛雪的音源，为了回答我的第三个问题，我用VS code 打开了其中一个名为**小熊猫音源**的音源，它是一个叫做**大学资源社**的公众号写的，经过我的观察Ｔａ盗版了[@lyswhut](https://github.com/lyswhut) 的 [这个音源](https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/lx-music-source.js)(**可能更需要魔法或者加速器才能看到**)
 
   还有以下音源也是盗版的(**还有比较多就不一一赘述,直接点名吧**)**:**
     
